@@ -19,7 +19,6 @@ console.log(loggedInValue);
 //1=> true 0=> false
 //"" empty string => false
 // "vidhi" => true
-
 //*********************OPERATIONS **********
 
 
